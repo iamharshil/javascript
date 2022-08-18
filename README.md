@@ -1,3 +1,3 @@
 # javascript
 
--   JS concept inshort for recall
+-   JS concept in short for recall
