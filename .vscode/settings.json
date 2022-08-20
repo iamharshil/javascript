@@ -1,3 +1,5 @@
 {
-    "cSpell.words": ["firstname", "lastname", "morphism"]
+    "cSpell.words": ["firstname", "lastname", "morphism"],
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true
 }
