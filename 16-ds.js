@@ -29,3 +29,7 @@ for (const el of names) {
     // i can do el in names for index
     console.log(el);
 }
+names.push("Julie");
+console.log(names.findIndex((el) => el === "Julie"));
+names.splice(2, 1);
+console.log(names);
